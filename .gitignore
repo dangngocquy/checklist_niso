@@ -2,3 +2,6 @@
 .env.local
 node_modules
 Phiên bản/
+SSL/
+firebase.json
+.firebaserc
