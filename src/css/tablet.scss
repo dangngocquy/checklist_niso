@@ -1,0 +1,23 @@
+@media screen and (max-width: 1280px) {
+    .box-grid-report-niso {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .width-m {
+        width: 200px !important;
+    }
+
+    .grid-phanquyen {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .box-grid-report-niso {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .grid-phanquyen {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
