@@ -1,6 +1,6 @@
 const config = {
   user: 'sa',
-  password: 'Niso@123',
+  password: '',
   server: 'DESKTOP-5C9IQJK',  // Try using 'localhost' instead of hostname
   database: 'SQL_NISO',
   driver: 'msnodesqlv8',
@@ -16,7 +16,7 @@ const config = {
 module.exports = config;
 // const config = {
 //   user: 'sa',
-//   password: '123123123',
+//   password: '',
 //   server: '127.0.0.1',
 //   port: 8433,
 //   database: 'CHECKLISTNISO',
